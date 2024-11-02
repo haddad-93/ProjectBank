@@ -1,0 +1,35 @@
+﻿  OOP_Applications.cpp
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsBankClient.h(26,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsIOProcessor.h(88,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsUsers.h(157,12): warning C4240: nonstandard extension used: access to 'clsUsers::stRegisterLogin' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'OOP_Applications.cpp')
+      C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsUsers.h(21,13):
+      see declaration of 'clsUsers::stRegisterLogin'
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsUsers.h(90,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsScreenTransfer.h(44,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsScreenFindUser.h(18,8): warning C4101: 'ansewr': unreferenced local variable
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsScreenMainUser.h(111,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsUpdeteCurrency.h(56,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsCalculatorCurrency.h(74,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsScreenMainCurrency.h(20,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'OOP_Applications.cpp')
+  
+C:\Users\haddad\source\repos\OOP_Applications\OOP_Applications\clsBankClient.h(292,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  OOP_Applications.vcxproj -> C:\Users\haddad\source\repos\OOP_Applications\x64\Debug\OOP_Applications.exe
